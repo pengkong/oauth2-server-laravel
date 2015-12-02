@@ -1,7 +1,9 @@
+# Documentation
+
 This wiki will guide you through all the things you need to successfully integrate an OAuth 2.0 compliant server into your Laravel applications. Let's begin!
 
 ## Getting Started
-1. [Introduction](https://github.com/lucadegasperi/oauth2-server-laravel/wiki/Introduction)
+1. [Introduction](docs/gettings-started/introduction.md)
 2. [Terminology](https://github.com/lucadegasperi/oauth2-server-laravel/wiki/Terminology)
 3. [Laravel 4 Installation](https://github.com/lucadegasperi/oauth2-server-laravel/wiki/Laravel-4-Installation)
 4. [Laravel 5 Installation](https://github.com/lucadegasperi/oauth2-server-laravel/wiki/Laravel-5-Installation)
