@@ -4,12 +4,12 @@ This wiki will guide you through all the things you need to successfully integra
 
 ## Getting Started
 1. [Introduction](getting-started/introduction.md)
-2. [Terminology](https://github.com/lucadegasperi/oauth2-server-laravel/wiki/Terminology)
-3. [Laravel 4 Installation](https://github.com/lucadegasperi/oauth2-server-laravel/wiki/Laravel-4-Installation)
-4. [Laravel 5 Installation](https://github.com/lucadegasperi/oauth2-server-laravel/wiki/Laravel-5-Installation)
-5. [Lumen Installation](https://github.com/lucadegasperi/oauth2-server-laravel/wiki/Lumen-Installation)
-6. [Configuration Options](https://github.com/lucadegasperi/oauth2-server-laravel/wiki/Configuration-Options)
-7. [Apache ModRewrite](https://github.com/lucadegasperi/oauth2-server-laravel/wiki/Apache-ModRewrite)
+2. [Terminology](getting-started/terminology.md)
+3. [Laravel 4 Installation](getting-started/laravel-4.md)
+4. [Laravel 5 Installation](getting-started/laravel-5.md)
+5. [Lumen Installation](getting-started/lumen.md)
+6. [Configuration](getting-started/config)
+7. [Apache ModRewrite](getting-started/apache.md)
 
 ## Authorization Server
 1. [Choosing a Grant](https://github.com/lucadegasperi/oauth2-server-laravel/wiki/Choosing-a-Grant)
