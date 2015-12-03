@@ -46,5 +46,7 @@ To make your life easier, this package comes with a sample controller you can us
 ```bash
 php artisan oauth2-server:controller
 ```
-***
-[&larr; Terminology](https://github.com/lucadegasperi/oauth2-server-laravel/wiki/Terminology) | [Configuration &rarr;](https://github.com/lucadegasperi/oauth2-server-laravel/wiki/Configuration-Options)
+
+---
+
+[&larr; Terminology](terminology.md) | [Configuration &rarr;](config.md)
