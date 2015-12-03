@@ -80,3 +80,7 @@ options: `true` or `false`
 default: `false`
 
 This options tells the resource server where to check for the access token. If set to true only the http headers will be checked.
+
+---
+
+[&larr; Terminology](terminology.md) | [Apache ModRewrite &rarr;](apache.md)

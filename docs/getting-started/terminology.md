@@ -11,3 +11,7 @@ Client | An application which accesses protected resources on behalf of the reso
 Grant | A grant is a method of acquiring an access token.
 Resource server | A server which sits in front of protected resources (for example "tweets", "users", "photos", or personal data) and is capable of accepting and responding to protected resource requests using access tokens.
 Scope | A permission.
+
+---
+
+[&larr; Introduction](introduction.md) | [Configuration &rarr;](config.md)

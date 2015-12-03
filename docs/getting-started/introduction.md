@@ -15,3 +15,7 @@ In addition it supports the following token types:
 - Bearer tokens
 - MAC tokens (coming soon)
 - JSON web tokens (coming soon)
+
+---
+
+[Terminology &rarr;](terminology.md)

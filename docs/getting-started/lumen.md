@@ -46,3 +46,7 @@ First copy the migrations from `vendor/lucadegasperi/oauth2-server-laravel/datab
 Uncomment `$app->withEloquent();` and run `php artisan migrate`.
 
 If you get an error saying the Config class can not be found, add `class_alias('Illuminate\Support\Facades\Config', 'Config');` to your `bootstrap/app.php` file and uncomment `$app->withFacades();` temporarily to import the migrations.
+
+---
+
+[&larr; Terminology](terminology.md) | [Configuration &rarr;](config.md)

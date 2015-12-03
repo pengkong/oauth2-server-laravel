@@ -31,3 +31,7 @@ Your full `.htaccess` file should look like this after the change:
     RewriteRule ^ index.php [L]
 </IfModule>
 ```
+
+---
+
+[&larr; Configuration](config.md)

@@ -48,3 +48,7 @@ Run migration to create required tables
 ```bash
 php artisan migrate
 ```
+
+---
+
+[&larr; Terminology](terminology.md) | [Configuration &rarr;](config.md)
